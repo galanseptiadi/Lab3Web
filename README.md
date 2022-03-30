@@ -65,3 +65,10 @@ PROGRAMNYA
 <img width="960" alt="program style form" src="https://user-images.githubusercontent.com/101730390/160445672-9f7bf92d-85da-4da5-8a0b-8d062e927af0.png">
 HASIL PROGRAMNYA 
 <img width="960" alt="hasil style form" src="https://user-images.githubusercontent.com/101730390/160445782-81af7c6a-2048-432f-a688-94b24e1add18.png">
+
+12. TUGAS! 
+Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+PROGRAMNYA :
+<img width="960" alt="program dropdown" src="https://user-images.githubusercontent.com/101730390/160831017-702443e3-ddf9-40b1-b7c8-f5df9879ea9c.png">
+HASIL PROGRAM :
+<img width="960" alt="hasil program dropdown" src="https://user-images.githubusercontent.com/101730390/160831155-2c5b6a24-43a2-4e40-aff4-53f5b7c3dc28.png">
